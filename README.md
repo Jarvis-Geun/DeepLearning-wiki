@@ -1,1 +1,1 @@
-# Pytorch-wiki
+# DeepLearning-Wiki
